@@ -1,4 +1,4 @@
-# Live Home 3D For Mac — Download For Mac OS
+# Live Home 3D For Mac — Desktop App For Mac OS
 ![logo](https://macx.ws/uploads/posts/2018-10/1538390721_live-home-3d-pro.png)
 
 Live Home 3D for Mac is a professional home and interior design application 🏡 that allows you to create detailed floor plans, furnish rooms, and visualize projects in stunning 3D. Follow the steps below to download and start designing with ease.
